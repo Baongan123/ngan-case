@@ -115,8 +115,8 @@ img::-moz-selection{
 }
 @media (min-width:992px){
     #mainNav{
-        padding-top:25px;
-        padding-bottom:25px;
+        padding-top:5px;
+        padding-bottom:5px;
         transition:padding-top .3s,padding-bottom .3s;
         border:none;
         background-color:rgb(53, 52, 52)

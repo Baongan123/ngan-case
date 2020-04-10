@@ -45,6 +45,7 @@ dashboard.remove = function(id){
             cancel: {
                 label: '<i class="fa fa-times"></i> No'
             }
+            
           
         },
         callback: function (result) {
